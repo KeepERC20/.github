@@ -11,8 +11,8 @@ Keep your ERC20s safe through Chainlink Automation (Keepers)
 While using our DApp, ERC20 tokens are internally wrapped into KeepERC20 tokens; which support
 - `scheduled` transfer,
 - lost money `recovery`,
-- and `expirable` approve
+- and `expirable` approval
 
-### Enjoy Decentralized and Safe Blockchain ❤️
+### Enjoy Decentralized and Secure Blockchain ❤️
 
 [WebApp](http://keeperc20.web.app) | [Docs]() | [GitHub](https://github.com/KeepERC20)
