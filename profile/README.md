@@ -15,4 +15,4 @@ While using our DApp, ERC20 tokens are internally wrapped into KeepERC20 tokens;
 
 ### Enjoy Decentralized and Secure Blockchain ❤️
 
-[WebApp](http://keeperc20.web.app) | [Docs]() | [GitHub](https://github.com/KeepERC20)
+[WebApp](http://keeperc20.web.app) | [Docs](https://keeperc20.github.io/KeepERC20-docs/) | [GitHub](https://github.com/KeepERC20)
