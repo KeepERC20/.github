@@ -1,5 +1,7 @@
 # KeeperC
 
+[![video](http://img.youtube.com/vi/RpGj_HfU5k8/0.jpg)](https://youtu.be/RpGj_HfU5k8?t=0s) 
+
 KeeperC is a web app and extension that helps you keep your tokens safe and secure using advanced technologies.
 It provides powerful functions such as scheduled transfers, lost money recovery, and expirable approval transfer.
 KeeperC also includes a Fraud Detection System and AI-powered chatbot for added security and convenience.
